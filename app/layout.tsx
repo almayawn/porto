@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 	openGraph: {
 		title: 'Alma Laras Bestari - Portfolio',
 		description: 'Aspiring web developer with growing interest in data, systems, and cloud technologies.',
-		url: 'https://your-domain.com',
+		url: 'https://portalmaya.vercel.app',
 		siteName: 'Alma Laras Bestari - Portfolio',
 		images: [
 			{
